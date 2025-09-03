@@ -1,0 +1,7 @@
+C:\Users\Francesca\source\repos\PINEDA_EXAMPLE4\PINEDA_EXAMPLE4\obj\Debug\net8.0-windows\PINEDA_EXAMPLE4.Form1.resources
+C:\Users\Francesca\source\repos\PINEDA_EXAMPLE4\PINEDA_EXAMPLE4\obj\Debug\net8.0-windows\PINEDA_EXAMPLE4.Properties.Resources.resources
+C:\Users\Francesca\source\repos\PINEDA_EXAMPLE4\PINEDA_EXAMPLE4\obj\Debug\net8.0-windows\PINEDA_EXAMPLE4.csproj.GenerateResource.cache
+C:\Users\Francesca\source\repos\PINEDA_EXAMPLE4\PINEDA_EXAMPLE4\obj\Debug\net8.0-windows\PINEDA_EXAMPLE4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Francesca\source\repos\PINEDA_EXAMPLE4\PINEDA_EXAMPLE4\obj\Debug\net8.0-windows\PINEDA_EXAMPLE4.AssemblyInfoInputs.cache
+C:\Users\Francesca\source\repos\PINEDA_EXAMPLE4\PINEDA_EXAMPLE4\obj\Debug\net8.0-windows\PINEDA_EXAMPLE4.AssemblyInfo.cs
+C:\Users\Francesca\source\repos\PINEDA_EXAMPLE4\PINEDA_EXAMPLE4\obj\Debug\net8.0-windows\PINEDA_EXAMPLE4.csproj.CoreCompileInputs.cache

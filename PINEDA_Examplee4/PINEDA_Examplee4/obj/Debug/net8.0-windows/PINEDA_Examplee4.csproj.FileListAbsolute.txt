@@ -1,0 +1,17 @@
+C:\Users\Francesca\source\repos\PINEDA_Examplee4\PINEDA_Examplee4\obj\Debug\net8.0-windows\PINEDA_Examplee4.Form1.resources
+C:\Users\Francesca\source\repos\PINEDA_Examplee4\PINEDA_Examplee4\obj\Debug\net8.0-windows\PINEDA_Examplee4.csproj.GenerateResource.cache
+C:\Users\Francesca\source\repos\PINEDA_Examplee4\PINEDA_Examplee4\obj\Debug\net8.0-windows\PINEDA_Examplee4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Francesca\source\repos\PINEDA_Examplee4\PINEDA_Examplee4\obj\Debug\net8.0-windows\PINEDA_Examplee4.AssemblyInfoInputs.cache
+C:\Users\Francesca\source\repos\PINEDA_Examplee4\PINEDA_Examplee4\obj\Debug\net8.0-windows\PINEDA_Examplee4.AssemblyInfo.cs
+C:\Users\Francesca\source\repos\PINEDA_Examplee4\PINEDA_Examplee4\obj\Debug\net8.0-windows\PINEDA_Examplee4.csproj.CoreCompileInputs.cache
+C:\Users\Francesca\source\repos\PINEDA_Examplee4\PINEDA_Examplee4\bin\Debug\net8.0-windows\PINEDA_Examplee4.exe
+C:\Users\Francesca\source\repos\PINEDA_Examplee4\PINEDA_Examplee4\bin\Debug\net8.0-windows\PINEDA_Examplee4.deps.json
+C:\Users\Francesca\source\repos\PINEDA_Examplee4\PINEDA_Examplee4\bin\Debug\net8.0-windows\PINEDA_Examplee4.runtimeconfig.json
+C:\Users\Francesca\source\repos\PINEDA_Examplee4\PINEDA_Examplee4\bin\Debug\net8.0-windows\PINEDA_Examplee4.dll
+C:\Users\Francesca\source\repos\PINEDA_Examplee4\PINEDA_Examplee4\bin\Debug\net8.0-windows\PINEDA_Examplee4.pdb
+C:\Users\Francesca\source\repos\PINEDA_Examplee4\PINEDA_Examplee4\obj\Debug\net8.0-windows\PINEDA_Examplee4.dll
+C:\Users\Francesca\source\repos\PINEDA_Examplee4\PINEDA_Examplee4\obj\Debug\net8.0-windows\refint\PINEDA_Examplee4.dll
+C:\Users\Francesca\source\repos\PINEDA_Examplee4\PINEDA_Examplee4\obj\Debug\net8.0-windows\PINEDA_Examplee4.pdb
+C:\Users\Francesca\source\repos\PINEDA_Examplee4\PINEDA_Examplee4\obj\Debug\net8.0-windows\PINEDA_Examplee4.genruntimeconfig.cache
+C:\Users\Francesca\source\repos\PINEDA_Examplee4\PINEDA_Examplee4\obj\Debug\net8.0-windows\ref\PINEDA_Examplee4.dll
+C:\Users\Francesca\source\repos\PINEDA_Examplee4\PINEDA_Examplee4\obj\Debug\net8.0-windows\PINEDA_Examplee4.Properties.Resources.resources

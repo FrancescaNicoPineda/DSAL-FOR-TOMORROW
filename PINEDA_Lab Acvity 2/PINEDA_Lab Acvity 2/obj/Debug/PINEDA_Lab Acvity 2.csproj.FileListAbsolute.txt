@@ -1,0 +1,11 @@
+C:\Users\Francesca\source\repos\PINEDA_Lab Acvity 2\PINEDA_Lab Acvity 2\obj\Debug\PINEDA_Lab Acvity 2.csproj.AssemblyReference.cache
+C:\Users\Francesca\source\repos\PINEDA_Lab Acvity 2\PINEDA_Lab Acvity 2\obj\Debug\PINEDA_Lab_Acvity_2.Form1.resources
+C:\Users\Francesca\source\repos\PINEDA_Lab Acvity 2\PINEDA_Lab Acvity 2\obj\Debug\PINEDA_Lab_Acvity_2.Properties.Resources.resources
+C:\Users\Francesca\source\repos\PINEDA_Lab Acvity 2\PINEDA_Lab Acvity 2\obj\Debug\PINEDA_Lab Acvity 2.csproj.GenerateResource.cache
+C:\Users\Francesca\source\repos\PINEDA_Lab Acvity 2\PINEDA_Lab Acvity 2\obj\Debug\PINEDA_Lab Acvity 2.csproj.CoreCompileInputs.cache
+C:\Users\Francesca\source\repos\PINEDA_Lab Acvity 2\PINEDA_Lab Acvity 2\bin\Debug\PINEDA_Lab Acvity 2.exe.config
+C:\Users\Francesca\source\repos\PINEDA_Lab Acvity 2\PINEDA_Lab Acvity 2\bin\Debug\PINEDA_Lab Acvity 2.exe
+C:\Users\Francesca\source\repos\PINEDA_Lab Acvity 2\PINEDA_Lab Acvity 2\bin\Debug\PINEDA_Lab Acvity 2.pdb
+C:\Users\Francesca\source\repos\PINEDA_Lab Acvity 2\PINEDA_Lab Acvity 2\obj\Debug\PINEDA_Lab Acvity 2.exe
+C:\Users\Francesca\source\repos\PINEDA_Lab Acvity 2\PINEDA_Lab Acvity 2\obj\Debug\PINEDA_Lab Acvity 2.pdb
+C:\Users\Francesca\source\repos\PINEDA_Lab Acvity 2\PINEDA_Lab Acvity 2\obj\Debug\PINEDA_Lab Acvity 2.exe.config

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PINEDA_Example3/1.0.0": {
+        "runtime": {
+          "PINEDA_Example3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PINEDA_Example3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

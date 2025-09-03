@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Francesca\\source\\repos\\PINEDA_LESSON2ACT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12BA6CB9-3ADE-46C9-9CA3-1CD18EC87898}|PINEDA_LESSON2ACT\\PINEDA_LESSON2ACT.csproj|c:\\users\\francesca\\source\\repos\\pineda_lesson2act\\pineda_lesson2act\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12BA6CB9-3ADE-46C9-9CA3-1CD18EC87898}|PINEDA_LESSON2ACT\\PINEDA_LESSON2ACT.csproj|solutionrelative:pineda_lesson2act\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Francesca\\source\\repos\\PINEDA_LESSON2ACT\\PINEDA_LESSON2ACT\\Program.cs",
+              "RelativeDocumentMoniker": "PINEDA_LESSON2ACT\\Program.cs",
+              "ToolTip": "C:\\Users\\Francesca\\source\\repos\\PINEDA_LESSON2ACT\\PINEDA_LESSON2ACT\\Program.cs",
+              "RelativeToolTip": "PINEDA_LESSON2ACT\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T11:00:12.546Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

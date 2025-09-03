@@ -1,0 +1,17 @@
+C:\Users\Francesca\source\repos\PINEDA_Example3\PINEDA_Example3\obj\Debug\net8.0-windows\PINEDA_Example3.Form1.resources
+C:\Users\Francesca\source\repos\PINEDA_Example3\PINEDA_Example3\obj\Debug\net8.0-windows\PINEDA_Example3.Properties.Resources.resources
+C:\Users\Francesca\source\repos\PINEDA_Example3\PINEDA_Example3\obj\Debug\net8.0-windows\PINEDA_Example3.csproj.GenerateResource.cache
+C:\Users\Francesca\source\repos\PINEDA_Example3\PINEDA_Example3\obj\Debug\net8.0-windows\PINEDA_Example3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Francesca\source\repos\PINEDA_Example3\PINEDA_Example3\obj\Debug\net8.0-windows\PINEDA_Example3.AssemblyInfoInputs.cache
+C:\Users\Francesca\source\repos\PINEDA_Example3\PINEDA_Example3\obj\Debug\net8.0-windows\PINEDA_Example3.AssemblyInfo.cs
+C:\Users\Francesca\source\repos\PINEDA_Example3\PINEDA_Example3\obj\Debug\net8.0-windows\PINEDA_Example3.csproj.CoreCompileInputs.cache
+C:\Users\Francesca\source\repos\PINEDA_Example3\PINEDA_Example3\bin\Debug\net8.0-windows\PINEDA_Example3.exe
+C:\Users\Francesca\source\repos\PINEDA_Example3\PINEDA_Example3\bin\Debug\net8.0-windows\PINEDA_Example3.deps.json
+C:\Users\Francesca\source\repos\PINEDA_Example3\PINEDA_Example3\bin\Debug\net8.0-windows\PINEDA_Example3.runtimeconfig.json
+C:\Users\Francesca\source\repos\PINEDA_Example3\PINEDA_Example3\bin\Debug\net8.0-windows\PINEDA_Example3.dll
+C:\Users\Francesca\source\repos\PINEDA_Example3\PINEDA_Example3\bin\Debug\net8.0-windows\PINEDA_Example3.pdb
+C:\Users\Francesca\source\repos\PINEDA_Example3\PINEDA_Example3\obj\Debug\net8.0-windows\PINEDA_Example3.dll
+C:\Users\Francesca\source\repos\PINEDA_Example3\PINEDA_Example3\obj\Debug\net8.0-windows\refint\PINEDA_Example3.dll
+C:\Users\Francesca\source\repos\PINEDA_Example3\PINEDA_Example3\obj\Debug\net8.0-windows\PINEDA_Example3.pdb
+C:\Users\Francesca\source\repos\PINEDA_Example3\PINEDA_Example3\obj\Debug\net8.0-windows\PINEDA_Example3.genruntimeconfig.cache
+C:\Users\Francesca\source\repos\PINEDA_Example3\PINEDA_Example3\obj\Debug\net8.0-windows\ref\PINEDA_Example3.dll
